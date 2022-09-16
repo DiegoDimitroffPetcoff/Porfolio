@@ -1,31 +1,44 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+English
+PERSONAL PORTFOLIO:
 
+This project is a simple web page in order to be able to show my work in a simple way,
+as well as being able to tell a little more about myself and some articles that I could write about development
+of my personal career as a web programmer.
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+In order to have detailed information on the code of my projects, you can enter my personal Github
+https://github.com/DiegoDimitroffPetcoff
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+To find more information about my professional profile you can check my personal Linkden account
+https://www.linkedin.com/in/diegodimitroffpetcoff/
 
-(* = not included)
+If you wish to contact me you can do so at:
+diegodimitroffpetcoff@gmail.com
+(+351) 935 828 293 - Portugal - Lisbon
 
-AJ
-aj@lkn.io | @ajlkn
+The page was built based on the templates offered by https://html5up.net/
 
+Diego Leonardo
+Vallejos Dimitroff Petcoff
 
-Credits:
+________________________________________________________________________________________________________________
+Español
+PORTAFOLIO PERSONAL:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Este proyecto es una pagina web simple con la finalidad de poder mostrar mis trabajos de manera sencilla, 
+asi como tambien poder contar un poco mas de mi y algunos articulos que pude escribir sobre el desarrollo 
+de mi carrera personal como programador web.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Para poder tener informacion detallada en codigo de mis proyectos puede ingresar a mi Github personal
+https://github.com/DiegoDimitroffPetcoff
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Para encontrar mas informacion sobre mi perfil profesional puede ingresar a mi cuenta personal de Linkden
+https://www.linkedin.com/in/diegodimitroffpetcoff/
+
+Si desea contactarse conmigo lo puede hacer a: 
+diegodimitroffpetcoff@gmail.com
+(+351) 935 828 293 - Portugal - Lisboa
+
+La pagina fue construida en base a los template ofrecidos por https://html5up.net/
+
+Diego Leonardo
+Vallejos Dimitroff Petcoff
