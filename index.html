@@ -163,7 +163,7 @@
 						</article>
 
 						<article>
-							<a href="nocountry.html" class="image" ><img src="images/5.png" alt="" /></a>
+							<a href="nocountry.html" class="image"><img src="images/5.png" alt="" /></a>
 							<h3 class="major">E-Commerce Project</h3>
 							<p>This is my first experience working in a team. This project is an App to manage a gym.
 								Here my participation was within the Backend team and we work with different
@@ -205,7 +205,7 @@
 				<h2 class="major">Get in touch!</h2>
 				<p>Hey! If my profile seemed interesting to you, you can write me whenever you want!
 					Then I leave you a form so that we can keep in touch and exchange ideas!.</p>
-				<form action="https://formsubmit.co/diegodimitroffpetcoff@gmail.com" method="post" >
+				<form action="https://formsubmit.co/diegodimitroffpetcoff@gmail.com" method="post">
 					<div class="fields">
 						<div class="field">
 							<label for="name">Name</label>
@@ -217,7 +217,7 @@
 						</div>
 						<div class="field">
 							<label for="email">Phone</label>
-							<input type="tel" name="phone" id="email" />
+							<input type="tel" name="phone" id="email" required />
 						</div>
 						<div class="field">
 							<label for="message">Message</label>
@@ -226,10 +226,13 @@
 
 					</div>
 					<ul class="actions">
-						<li><input type="submit" value="Send Message" /></li>
+						<li><input type="submit" value="Send Message" onclick="alert('Message Sent')" /></li>
+
+
 
 					</ul>
 					<input type="hidden" name="_next" value="https://diegodimitroffpetcoff.github.io/Porfolio/">
+					<!-- <script language='javascript'>alert('Mensaje enviado');</script> -->
 					<input type="hidden" name="_captcha" value="false">
 				</form>
 
