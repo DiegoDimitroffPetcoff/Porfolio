@@ -4164,4 +4164,12 @@ input, select, textarea {
 	.fa-brands {
 		border-bottom: none;
 	   }
+	   section.alt:nth-child(1) > div:nth-child(1) > section:nth-child(3) > article:nth-child(1) {
+		width: calc(100% );
+	   }
+	   section.alt:nth-child(1) > div:nth-child(1) > section:nth-child(3) > article:nth-child(1) {
+		width: 100%;
+		margin: 0px auto;
+		background-color: #1e1b47;
+	   }
 	   
