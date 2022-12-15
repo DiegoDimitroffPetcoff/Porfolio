@@ -4172,4 +4172,20 @@ input, select, textarea {
 		margin: 0px auto;
 		background-color: #1e1b47;
 	   }
+	   #blog > section:nth-child(3) > article:nth-child(2) {
+		width: 100%;
+		margin: 0px auto;
+		background-color: #1e1b47;
+		margin-top: 5%;
+	   }
+	   article.relative {
+		border-radius: 2%;
+		width: 100%;
+		margin: 0px auto;
+		scrollbar-base-color: #f71eda;
+	   }
+	   .artdeco-global-alert {
+		height: 0;
+		visibility: none;
+	   }
 	   
