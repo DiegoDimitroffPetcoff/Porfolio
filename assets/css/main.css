@@ -3030,6 +3030,8 @@ input, select, textarea {
 					width: 100%;
 				}
 
+			
+
 		@media screen and (max-width: 980px) {
 
 			.features article {
@@ -4172,7 +4174,7 @@ input, select, textarea {
 		margin: 0px auto;
 		background-color: #1e1b47;
 	   }
-	   #blog > section:nth-child(3) > article:nth-child(2) {
+	   #blog > article:nth-child(1) > section:nth-child(3) > article:nth-child(2) {
 		width: 100%;
 		margin: 0px auto;
 		background-color: #1e1b47;
@@ -4188,4 +4190,5 @@ input, select, textarea {
 		height: 0;
 		visibility: none;
 	   }
+	   
 	   
